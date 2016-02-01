@@ -1,0 +1,5 @@
+D:\Work\DataBaseHW\SuperMarketManage\Model\bin\Release\Model.dll
+D:\Work\DataBaseHW\SuperMarketManage\Model\bin\Release\Model.pdb
+D:\Work\DataBaseHW\SuperMarketManage\Model\obj\Release\Model.dll
+D:\Work\DataBaseHW\SuperMarketManage\Model\obj\Release\Model.pdb
+D:\Work\DataBaseHW\SuperMarketManage\Model\obj\Release\Model.csprojResolveAssemblyReference.cache

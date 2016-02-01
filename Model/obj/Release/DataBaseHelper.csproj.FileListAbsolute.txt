@@ -1,0 +1,4 @@
+D:\Work\C#HomeWork\MotionMusic\MotionMusic\DbHelper\bin\Release\DataBaseHelper.dll
+D:\Work\C#HomeWork\MotionMusic\MotionMusic\DbHelper\bin\Release\DataBaseHelper.pdb
+D:\Work\C#HomeWork\MotionMusic\MotionMusic\DbHelper\obj\Release\DataBaseHelper.dll
+D:\Work\C#HomeWork\MotionMusic\MotionMusic\DbHelper\obj\Release\DataBaseHelper.pdb

@@ -1,0 +1,11 @@
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\BLL.dll
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\BLL.pdb
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\DAL.dll
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\Model.dll
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\DBHelper.dll
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\DAL.pdb
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\Model.pdb
+D:\Work\DataBaseHW\SuperMarketManage\BLL\bin\Release\DBHelper.pdb
+D:\Work\DataBaseHW\SuperMarketManage\BLL\obj\Release\BLL.csprojResolveAssemblyReference.cache
+D:\Work\DataBaseHW\SuperMarketManage\BLL\obj\Release\BLL.dll
+D:\Work\DataBaseHW\SuperMarketManage\BLL\obj\Release\BLL.pdb

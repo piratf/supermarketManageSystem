@@ -1,0 +1,4 @@
+D:\Work\DataBaseHW\SuperMarketManage\DBHelper\bin\Release\DBHelper.dll
+D:\Work\DataBaseHW\SuperMarketManage\DBHelper\bin\Release\DBHelper.pdb
+D:\Work\DataBaseHW\SuperMarketManage\DBHelper\obj\Release\DBHelper.dll
+D:\Work\DataBaseHW\SuperMarketManage\DBHelper\obj\Release\DBHelper.pdb

@@ -1,0 +1,7 @@
+D:\Work\DataBaseHW\SuperMarketManage\DAL\bin\Release\DAL.dll
+D:\Work\DataBaseHW\SuperMarketManage\DAL\bin\Release\DAL.pdb
+D:\Work\DataBaseHW\SuperMarketManage\DAL\bin\Release\DBHelper.dll
+D:\Work\DataBaseHW\SuperMarketManage\DAL\bin\Release\DBHelper.pdb
+D:\Work\DataBaseHW\SuperMarketManage\DAL\obj\Release\DAL.csprojResolveAssemblyReference.cache
+D:\Work\DataBaseHW\SuperMarketManage\DAL\obj\Release\DAL.dll
+D:\Work\DataBaseHW\SuperMarketManage\DAL\obj\Release\DAL.pdb
